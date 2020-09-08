@@ -1,0 +1,27 @@
+#graphic {
+    margin: 30px 10px 30px 100px ;
+    font-size: large;
+    width: 450px;
+}
+
+.text:first-line{
+    color:darkred;
+    font-size:18px;
+    font-style: oblique;
+    }
+
+h3 {
+    font-family: Lobster, cursive;!important;
+    color: royalblue;!important;
+    width: 150px;!important;
+}
+
+h2{
+    color:red;
+    font-size: 20px;
+    font-width:10px;
+}
+body{
+    color:firebrick;
+    font-family: sans-serif;
+}
